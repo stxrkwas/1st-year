@@ -1,2 +1,2 @@
-# 1st-year
-Atividades do 1º ano de Desenvolvimento de Sistemas.
+# 1st year
+📑 Atividades do 1º ano de Desenvolvimento de Sistemas.
